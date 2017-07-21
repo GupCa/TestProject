@@ -4,4 +4,4 @@ In England, the currency is pound sterling and pence. There are eight coins in c
 How many different ways can I make £ 2 using any number of coins? Propose a solution code for the task (or link to the repository)
 
 
-![alt text](https://github.com/GupCa/TestProject/tree/master/ConsoleApplication1/ConsoleApplication1/Results.jpg)
+![alt text](https://github.com/GupCa/TestProject/blob/master/ConsoleApplication1/ConsoleApplication1/Results.jpg)
